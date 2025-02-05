@@ -64401,11 +64401,11 @@ case 4:A.abt().$1("Could not launch "+a)
 case 3:return A.I(null,r)}})
 return A.J($async$nU,r)}}
 A.Qf.prototype={
-$2(a,b){var s=null,r=this.a,q=t.p,p=A.a([A.dG(A.bs(A.a([B.HL,B.fa,B.O2,B.fa,A.di(A.a([r.HL(B.Bn,"https://www.linkedin.com/in/ahmedsami011/"),r.HL(B.Bo,"https://github.com/engAhmedSami")],q),B.z,B.u,B.r)],q),B.L,B.u,B.r),s,320)],q),o=!(b.b<1450)
+$2(a,b){var s=null,r=this.a,q=t.p,p=A.a([A.dG(A.bs(A.a([B.HL,B.fa,B.O2,B.fa,A.di(A.a([r.HL(B.Bn,"https://www.linkedin.com/in/ahmedsami011/"),r.HL(B.Bo,"https://github.com/engAhmedSami")],q),B.z,B.u,B.r)],q),B.L,B.u,B.r),s,320)],q),o=!(b.b<1300)
 if(o)p.push(r.F0("Quick links",A.a(["Home","Service","Projects","About","Client","Contact"],t.s)))
 if(o)p.push(r.F0("Important",A.a(["Career","Terms & Conditions","Privacy Policy","Cookies Policy","Social Work"],t.s)))
 p.push(A.dG(A.bs(A.a([B.O5,B.au,r.vZ(B.Bs,"+20 01023582057"),r.vZ(B.Bq,"ii.ahmedsami0@gmail.com"),r.vZ(B.Br,"Egypt, Dakahlia, Mansoura")],q),B.L,B.u,B.r),s,250))
-return A.e9(s,new A.fo(B.dR,s,s,A.bs(A.a([A.aiY(B.cC,p,30,140)],q),B.L,B.u,B.r),s),B.v,B.cW,s,s,s,s,s,B.AY,s,s,s)},
+return A.e9(s,new A.fo(B.dR,s,s,A.bs(A.a([A.aiY(B.cC,p,30,120)],q),B.L,B.u,B.r),s),B.v,B.cW,s,s,s,s,s,B.AY,s,s,s)},
 $S:424}
 A.Qd.prototype={
 $1(a){return new A.b1(B.AM,A.b2(a,B.wy,null),null)},
